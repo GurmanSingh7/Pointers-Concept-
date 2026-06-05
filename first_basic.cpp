@@ -2,7 +2,8 @@
 using namespace std;
 int main(){
     int a , b;
-    cin>>a>>b; // scanf("%d %d",&a,&b);  
+    cin>>a>>b;
+    // scanf("%d %d",&a,&b);  
     cout<<"You Entered : "<<a<<b; //printf("You have Entered %d %d",a,b);
    
     //haming distance 
