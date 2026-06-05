@@ -2,7 +2,7 @@
 // {
 //     function body
 //     return &variablename;
-// }
+// }  
 
 #include <iostream>   
 using namespace std;
