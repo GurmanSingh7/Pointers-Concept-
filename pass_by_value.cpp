@@ -3,7 +3,7 @@ using namespace std;
 void fun(int a)
 {
     a = a+5;
-    cout<<"Value of a :"<<a<<endl;
+    cout<<"Value of a :"<<a<<endl;  
 }
 int main()
 {
