@@ -1,7 +1,7 @@
 // Returntype* functionname()
 // {
 //     function body
-//     return &variablename;
+//     return &variablename;   
 // }    
 
 #include <iostream>   
