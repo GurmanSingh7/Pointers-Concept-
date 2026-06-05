@@ -4,7 +4,7 @@
 //     return &variablename;
 // }
 
-#include <iostream>
+#include <iostream>   
 using namespace std;
 int a; // global variable
 int* fun()
