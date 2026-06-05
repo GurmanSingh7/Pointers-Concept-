@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 void fun(int*a)
-{
+{   
     *a = *a+5;
     cout<<"value of a in fun :"<<*a<<endl;  
 }
