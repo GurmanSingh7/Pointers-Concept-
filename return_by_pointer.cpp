@@ -9,7 +9,7 @@ using namespace std;
 int a; // global variable
 int* fun()
 {
-    a = 5;
+    a = 5;  
     return &a;
 }
 int main()
