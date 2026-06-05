@@ -1,7 +1,7 @@
 // Local Variables
 
 // #include<iostream>
-// using namespace std;
+// using namespace std;  
 // void fun()
 // {
 //     int a = 9;
