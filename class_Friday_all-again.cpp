@@ -1,17 +1,17 @@
 #include<iostream>   
 using namespace std;  
 
-// int main(){  
-//     int a = 7;   
-//     int *p=&a;//refrencing
-//     cout<<a<<endl;
-//     cout<<*p<<endl;//derefrencing
+int main(){  
+    int a = 7;   
+    int *p=&a;//refrencing
+    cout<<a<<endl;
+    cout<<*p<<endl;//derefrencing
 
-// // For Address ->    
-// // cout<<&a<<endl;
-// // cout<<p<<endl;
-//     return 0;
-// }
+// For Address ->    
+// cout<<&a<<endl;
+// cout<<p<<endl;
+    return 0;
+}
 
 
 // call by value
